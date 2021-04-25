@@ -1,0 +1,34 @@
+_repo: Kummastuneet-kasvot_65063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Noailles, Anna de
+    aliases:
+    - Brancovan, Anna de
+    - De Noailles, Ana
+    - De Noailles, Anna
+    - Noailles, Mathieu de, comtesse
+    - Brancovan Noailles, Anna Elisabeth de, comtesse
+    - Noailles, Ana-Elisabeta
+    - Noailles, comtesse de
+    - De Brancovan Noailles, Anna Elisabeth, comtesse
+    birthdate: 1876
+    deathdate: 1933
+    gutenberg_agent_id: '25065'
+    url: http://www.gutenberg.org/2009/agents/25065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Anna_de_Noailles
+    - https://en.wikipedia.org/wiki/Anna_de_Noailles
+description: ''
+gutenberg_issued: '2021-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65063'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kummastuneet kasvot
+url: http://www.gutenberg.org/ebooks/65063
